@@ -1,0 +1,34 @@
+/* Menu.css */
+.wrapper { 
+	position: relative; 
+	width: 200px; 
+	height: 250px; 
+	border: 2px solid #dc042c; 
+	margin: 50px auto; 
+	margin-top: 200px; 
+	display: flex; 
+	flex-wrap: wrap; 
+	justify-content: center; 
+} 
+
+.start { 
+	margin: 100px; 
+	background: #1e1e1e; 
+	color: rgb(225, 255, 0); 
+	border-radius: 7px; 
+	border: 0px; 
+	padding: 10px; 
+	font-size: 1.2em; 
+	box-shadow: 0 0 70px #abbfc0; 
+	font-family: "Courier New", Courier, monospace; 
+}
+footer {
+    background-color: maroon;
+    color: darkgrey;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+	left: 0;
+    width: 100%;
+    padding: 20px 0; 
+}
